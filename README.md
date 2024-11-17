@@ -16,4 +16,8 @@
 https://github.com/iwk7273/qmk_firmware/tree/main/meteorite40
 
 ## 特殊キーコード
+<<<<<<< HEAD
 https://github.com/iwk7273/qmk_firmware/tree/main/meteorite40
+=======
+https://github.com/iwk7273/qmk_firmware/tree/main/meteorite40
+>>>>>>> 4766d74 (add readme file)

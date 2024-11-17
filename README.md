@@ -13,6 +13,4 @@
 準備中
 
 ## ファームウェア
-
-
-## 特殊キーコード
+https://github.com/hashikure-engineering/qmk_firmware.git

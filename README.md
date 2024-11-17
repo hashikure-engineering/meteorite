@@ -1,6 +1,6 @@
 # Meteorite シリーズ
 
-![meteorite](./docs/images/meteorite.jpg)
+![meteorite](.docs/images/meteorite.jpg)
 
   * Meteorite40 hight profile(上): 40キー + 2ノブ + トラックボール (35mm / 25mm)
   * Meteorite40 low profile(下): 40キー + 2ノブ + トラックボール (25mm)
